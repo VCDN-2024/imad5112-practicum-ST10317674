@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ST10317674Exam</string>
+    <string name="col1">Day</string>
+    <string name="col2">Max</string>
+    <string name="col3">Min</string>
+    <string name="col4">Condition</string>
+</resources>
